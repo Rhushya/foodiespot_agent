@@ -1,0 +1,5 @@
+groq
+streamlit
+pydantic
+python-dotenv  # For loading environment variables (for GROQ_API_KEY)
+requests       # If making HTTP requests (useful for real API implementations)
