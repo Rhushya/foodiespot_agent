@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "BLR001",
+    "name": "Adams Grill",
+    "location": "Jose Island",
+    "cuisine": "South Indian",
+    "seating_capacity": 73,
+    "hours": "11:00-23:00",
+    "contact": "+91 6972337580",
+    "special_notes": "Vegetarian Burmese cuisine with a modern twist."
+  },
+  {
+    "id": "BLR002",
+    "name": "Williams Kitchen",
+    "location": "James Mountain",
+    "cuisine": "South Indian",
+    "seating_capacity": 194,
+    "hours": "10:30-23:30",
+    "contact": "+91 8154709932",
+    "special_notes": "Known for royal Mughlai dishes and luxurious ambiance."
+  },
+  {
+    "id": "BLR003",
+    "name": "Livingston Lounge",
+    "location": "Charles Island",
+    "cuisine": "North Indian",
+    "seating_capacity": 156,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 8557356817",
+    "special_notes": "Vegetarian Burmese cuisine with a modern twist."
+  },
+  {
+    "id": "BLR004",
+    "name": "Stevens Tiffin Room",
+    "location": "Waters Course",
+    "cuisine": "Microbrewery",
+    "seating_capacity": 151,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 6593046368",
+    "special_notes": "Iconic for crispy dosas and filter coffee."
+  },
+  {
+    "id": "BLR005",
+    "name": "Newman House",
+    "location": "Pruitt Turnpike",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 174,
+    "hours": "07:00-23:00",
+    "contact": "+91 9578498582",
+    "special_notes": "Luxury hotel offering diverse dining options in a serene setting."
+  },
+  {
+    "id": "BLR006",
+    "name": "King Kitchen",
+    "location": "Lee Valleys",
+    "cuisine": "Burmese",
+    "seating_capacity": 88,
+    "hours": "12:00-00:00",
+    "contact": "+91 9288841677",
+    "special_notes": "Known for royal Mughlai dishes and luxurious ambiance."
+  },
+  {
+    "id": "BLR007",
+    "name": "Farley Place",
+    "location": "Fox Lakes",
+    "cuisine": "North Indian",
+    "seating_capacity": 61,
+    "hours": "06:00-15:00",
+    "contact": "+91 8954327882",
+    "special_notes": "Panoramic city views and a relaxed rooftop ambiance."
+  },
+  {
+    "id": "BLR008",
+    "name": "Garcia Place",
+    "location": "Kevin Squares",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 79,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 8207820609",
+    "special_notes": "Known for royal Mughlai dishes and luxurious ambiance."
+  },
+  {
+    "id": "BLR009",
+    "name": "Carpenter Tiffin Room",
+    "location": "Michelle Branch",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 80,
+    "hours": "24 Hours",
+    "contact": "+91 8385304117",
+    "special_notes": "Offers traditional village-style meals, especially during festivals."
+  },
+  {
+    "id": "BLR010",
+    "name": "Ortiz Bistro",
+    "location": "Rebecca Hollow",
+    "cuisine": "Coastal Indian",
+    "seating_capacity": 96,
+    "hours": "07:00-23:00",
+    "contact": "+91 8893358977",
+    "special_notes": "India\u2019s first Vietnamese restaurant with an elegant outdoor setting."
+  },
+  {
+    "id": "BLR011",
+    "name": "Meadows Grill",
+    "location": "Frank Mission",
+    "cuisine": "Continental",
+    "seating_capacity": 123,
+    "hours": "10:30-23:30",
+    "contact": "+91 7874633551",
+    "special_notes": "Retro-themed restaurant with a rock-and-roll vibe."
+  },
+  {
+    "id": "BLR012",
+    "name": "Herrera Lounge",
+    "location": "Peterson Village",
+    "cuisine": "Coastal Indian",
+    "seating_capacity": 113,
+    "hours": "24 Hours",
+    "contact": "+91 7687919904",
+    "special_notes": "Craft beers and wood-fired pizzas."
+  },
+  {
+    "id": "BLR013",
+    "name": "Turner Bistro",
+    "location": "Gary Hollow",
+    "cuisine": "Burmese",
+    "seating_capacity": 143,
+    "hours": "10:30-23:30",
+    "contact": "+91 8843484352",
+    "special_notes": "Vegetarian Burmese cuisine with a modern twist."
+  },
+  {
+    "id": "BLR014",
+    "name": "Hudson Grill",
+    "location": "Young Loaf",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 73,
+    "hours": "12:00-00:00",
+    "contact": "+91 7645881202",
+    "special_notes": "Vegetarian Burmese cuisine with a modern twist."
+  },
+  {
+    "id": "BLR015",
+    "name": "Martinez Bistro",
+    "location": "Serrano Views",
+    "cuisine": "Coastal Indian",
+    "seating_capacity": 116,
+    "hours": "12:00-00:00",
+    "contact": "+91 6121851038",
+    "special_notes": "Authentic seafood from coastal India."
+  },
+  {
+    "id": "BLR016",
+    "name": "Moore Cafe",
+    "location": "Stephanie Trail",
+    "cuisine": "Continental",
+    "seating_capacity": 138,
+    "hours": "11:00-23:00",
+    "contact": "+91 8140314688",
+    "special_notes": "Luxury hotel offering diverse dining options in a serene setting."
+  },
+  {
+    "id": "BLR017",
+    "name": "Weaver Grill",
+    "location": "John Forges",
+    "cuisine": "North Indian",
+    "seating_capacity": 67,
+    "hours": "12:00-00:00",
+    "contact": "+91 8963322951",
+    "special_notes": "Retro-themed restaurant with a rock-and-roll vibe."
+  },
+  {
+    "id": "BLR018",
+    "name": "Brown Kitchen",
+    "location": "Joshua Grove",
+    "cuisine": "South Indian",
+    "seating_capacity": 125,
+    "hours": "10:30-23:30",
+    "contact": "+91 9669610362",
+    "special_notes": "Vegetarian Burmese cuisine with a modern twist."
+  },
+  {
+    "id": "BLR019",
+    "name": "Thompson Lounge",
+    "location": "Elizabeth Brook",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 163,
+    "hours": "11:00-23:00",
+    "contact": "+91 8779481757",
+    "special_notes": "Authentic seafood from coastal India."
+  },
+  {
+    "id": "BLR020",
+    "name": "Scott House",
+    "location": "Margaret Grove",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 121,
+    "hours": "06:00-15:00",
+    "contact": "+91 8320719528",
+    "special_notes": "Iconic for crispy dosas and filter coffee."
+  },
+  {
+    "id": "BLR021",
+    "name": "Rodriguez Cafe",
+    "location": "Keith Crossing",
+    "cuisine": "Microbrewery",
+    "seating_capacity": 119,
+    "hours": "10:30-23:30",
+    "contact": "+91 7379533111",
+    "special_notes": "Offers traditional village-style meals, especially during festivals."
+  },
+  {
+    "id": "BLR022",
+    "name": "Stanley Lounge",
+    "location": "Brewer Radial",
+    "cuisine": "North Indian",
+    "seating_capacity": 60,
+    "hours": "12:00-00:00",
+    "contact": "+91 6528606126",
+    "special_notes": "Panoramic city views and a relaxed rooftop ambiance."
+  },
+  {
+    "id": "BLR023",
+    "name": "Walton House",
+    "location": "Davis Crossroad",
+    "cuisine": "Coastal Indian",
+    "seating_capacity": 162,
+    "hours": "06:00-15:00",
+    "contact": "+91 6487911948",
+    "special_notes": "Craft beers and wood-fired pizzas."
+  },
+  {
+    "id": "BLR024",
+    "name": "Wilson Kitchen",
+    "location": "Roger Divide",
+    "cuisine": "Microbrewery",
+    "seating_capacity": 72,
+    "hours": "11:00-23:00",
+    "contact": "+91 8702925583",
+    "special_notes": "Offers traditional village-style meals, especially during festivals."
+  },
+  {
+    "id": "BLR025",
+    "name": "Fisher Tiffin Room",
+    "location": "Holly Stravenue",
+    "cuisine": "Continental",
+    "seating_capacity": 82,
+    "hours": "12:00-00:00",
+    "contact": "+91 6889265195",
+    "special_notes": "Iconic for crispy dosas and filter coffee."
+  },
+  {
+    "id": "BLR026",
+    "name": "Walker Grill",
+    "location": "Bonilla Mews",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 114,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 8719742532",
+    "special_notes": "Known for royal Mughlai dishes and luxurious ambiance."
+  },
+  {
+    "id": "BLR027",
+    "name": "Smith Place",
+    "location": "Holmes Parkway",
+    "cuisine": "North Indian",
+    "seating_capacity": 161,
+    "hours": "12:00-00:00",
+    "contact": "+91 9537306874",
+    "special_notes": "Panoramic city views and a relaxed rooftop ambiance."
+  },
+  {
+    "id": "BLR028",
+    "name": "Ramirez Bistro",
+    "location": "Stacy Pines",
+    "cuisine": "South Indian",
+    "seating_capacity": 161,
+    "hours": "11:00-23:00",
+    "contact": "+91 8464359388",
+    "special_notes": "India\u2019s first Vietnamese restaurant with an elegant outdoor setting."
+  },
+  {
+    "id": "BLR029",
+    "name": "Smith Kitchen",
+    "location": "Anderson Well",
+    "cuisine": "Coastal Indian",
+    "seating_capacity": 179,
+    "hours": "12:00-00:00",
+    "contact": "+91 9963067004",
+    "special_notes": "Panoramic city views and a relaxed rooftop ambiance."
+  },
+  {
+    "id": "BLR030",
+    "name": "Foster Grill",
+    "location": "Kimberly Tunnel",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 134,
+    "hours": "12:00-00:00",
+    "contact": "+91 8909906378",
+    "special_notes": "Famous for steaks and burgers."
+  },
+  {
+    "id": "BLR031",
+    "name": "Ford Kitchen",
+    "location": "Reilly Pine",
+    "cuisine": "Coastal Indian",
+    "seating_capacity": 60,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 9904768126",
+    "special_notes": "Craft beers and wood-fired pizzas."
+  },
+  {
+    "id": "BLR032",
+    "name": "Marshall Bistro",
+    "location": "Katelyn Springs",
+    "cuisine": "South Indian",
+    "seating_capacity": 125,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 6574950066",
+    "special_notes": "Known for royal Mughlai dishes and luxurious ambiance."
+  },
+  {
+    "id": "BLR033",
+    "name": "Morales House",
+    "location": "Michael Shoal",
+    "cuisine": "Continental",
+    "seating_capacity": 147,
+    "hours": "24 Hours",
+    "contact": "+91 9207491340",
+    "special_notes": "Authentic seafood from coastal India."
+  },
+  {
+    "id": "BLR034",
+    "name": "Kennedy Cafe",
+    "location": "Swanson Shoals",
+    "cuisine": "South Indian",
+    "seating_capacity": 63,
+    "hours": "06:00-15:00",
+    "contact": "+91 9825555901",
+    "special_notes": "Iconic for crispy dosas and filter coffee."
+  },
+  {
+    "id": "BLR035",
+    "name": "Miller Place",
+    "location": "Mccall Stravenue",
+    "cuisine": "South Indian",
+    "seating_capacity": 199,
+    "hours": "10:30-23:30",
+    "contact": "+91 6547894245",
+    "special_notes": "Authentic seafood from coastal India."
+  },
+  {
+    "id": "BLR036",
+    "name": "Gonzalez Tiffin Room",
+    "location": "Cooper Burgs",
+    "cuisine": "Continental",
+    "seating_capacity": 161,
+    "hours": "10:30-23:30",
+    "contact": "+91 6172773242",
+    "special_notes": "Offers traditional village-style meals, especially during festivals."
+  },
+  {
+    "id": "BLR037",
+    "name": "Sloan Tiffin Room",
+    "location": "Amber Path",
+    "cuisine": "Coastal Indian",
+    "seating_capacity": 118,
+    "hours": "07:00-23:00",
+    "contact": "+91 7443158089",
+    "special_notes": "Retro-themed restaurant with a rock-and-roll vibe."
+  },
+  {
+    "id": "BLR038",
+    "name": "Heath Cafe",
+    "location": "Julie Wells",
+    "cuisine": "Burmese",
+    "seating_capacity": 151,
+    "hours": "11:00-23:00",
+    "contact": "+91 8457669351",
+    "special_notes": "Authentic seafood from coastal India."
+  },
+  {
+    "id": "BLR039",
+    "name": "Hayes Grill",
+    "location": "Mckenzie Burg",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 161,
+    "hours": "24 Hours",
+    "contact": "+91 9608645345",
+    "special_notes": "Offers traditional village-style meals, especially during festivals."
+  },
+  {
+    "id": "BLR040",
+    "name": "Clark Tiffin Room",
+    "location": "Rebecca Villages",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 99,
+    "hours": "06:00-15:00",
+    "contact": "+91 9122435723",
+    "special_notes": "India\u2019s largest brewpub with rooftop seating."
+  },
+  {
+    "id": "BLR041",
+    "name": "Peterson Place",
+    "location": "Gomez Court",
+    "cuisine": "Burmese",
+    "seating_capacity": 87,
+    "hours": "12:00-00:00",
+    "contact": "+91 9264688236",
+    "special_notes": "Craft beers and wood-fired pizzas."
+  },
+  {
+    "id": "BLR042",
+    "name": "Morales Tiffin Room",
+    "location": "Brianna Gateway",
+    "cuisine": "Coastal Indian",
+    "seating_capacity": 71,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 6532524664",
+    "special_notes": "India\u2019s largest brewpub with rooftop seating."
+  },
+  {
+    "id": "BLR043",
+    "name": "Cummings Kitchen",
+    "location": "Cynthia Square",
+    "cuisine": "Continental",
+    "seating_capacity": 192,
+    "hours": "12:00-00:00",
+    "contact": "+91 7820257650",
+    "special_notes": "Luxury hotel offering diverse dining options in a serene setting."
+  },
+  {
+    "id": "BLR044",
+    "name": "Wall Kitchen",
+    "location": "Luke Keys",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 173,
+    "hours": "06:00-15:00",
+    "contact": "+91 6434198394",
+    "special_notes": "Vegetarian Burmese cuisine with a modern twist."
+  },
+  {
+    "id": "BLR045",
+    "name": "Wright Bistro",
+    "location": "Gregory Road",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 100,
+    "hours": "24 Hours",
+    "contact": "+91 8741455484",
+    "special_notes": "Known for royal Mughlai dishes and luxurious ambiance."
+  },
+  {
+    "id": "BLR046",
+    "name": "Rodriguez Kitchen",
+    "location": "Anthony Lodge",
+    "cuisine": "Continental",
+    "seating_capacity": 100,
+    "hours": "11:00-23:00",
+    "contact": "+91 6727822239",
+    "special_notes": "Authentic seafood from coastal India."
+  },
+  {
+    "id": "BLR047",
+    "name": "Chapman Cafe",
+    "location": "Dominguez Via",
+    "cuisine": "South Indian",
+    "seating_capacity": 101,
+    "hours": "07:00-23:00",
+    "contact": "+91 6866539906",
+    "special_notes": "Retro-themed restaurant with a rock-and-roll vibe."
+  },
+  {
+    "id": "BLR048",
+    "name": "Davis Kitchen",
+    "location": "Griffin Spur",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 133,
+    "hours": "06:00-15:00",
+    "contact": "+91 6398493308",
+    "special_notes": "Iconic for crispy dosas and filter coffee."
+  },
+  {
+    "id": "BLR049",
+    "name": "Brown Place",
+    "location": "Robin Mission",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 128,
+    "hours": "06:00-15:00",
+    "contact": "+91 8256844307",
+    "special_notes": "Famous for steaks and burgers."
+  },
+  {
+    "id": "BLR050",
+    "name": "Thompson House",
+    "location": "Hannah Branch",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 56,
+    "hours": "11:00-23:00",
+    "contact": "+91 8355413339",
+    "special_notes": "Retro-themed restaurant with a rock-and-roll vibe."
+  },
+  {
+    "id": "BLR051",
+    "name": "Marks Place",
+    "location": "Villa Corners",
+    "cuisine": "Continental",
+    "seating_capacity": 106,
+    "hours": "12:00-00:00",
+    "contact": "+91 7898138637",
+    "special_notes": "India\u2019s largest brewpub with rooftop seating."
+  },
+  {
+    "id": "BLR052",
+    "name": "Mann Place",
+    "location": "Robert Radial",
+    "cuisine": "Burmese",
+    "seating_capacity": 149,
+    "hours": "12:00-00:00",
+    "contact": "+91 8916797170",
+    "special_notes": "Famous for steaks and burgers."
+  },
+  {
+    "id": "BLR053",
+    "name": "Morgan Tiffin Room",
+    "location": "David Harbor",
+    "cuisine": "South Indian",
+    "seating_capacity": 85,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 8959313312",
+    "special_notes": "India\u2019s first Vietnamese restaurant with an elegant outdoor setting."
+  },
+  {
+    "id": "BLR054",
+    "name": "Luna Bistro",
+    "location": "Nicole Mission",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 99,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 6150839268",
+    "special_notes": "Vegetarian Burmese cuisine with a modern twist."
+  },
+  {
+    "id": "BLR055",
+    "name": "Johnson Cafe",
+    "location": "Espinoza Canyon",
+    "cuisine": "Continental",
+    "seating_capacity": 58,
+    "hours": "07:00-23:00",
+    "contact": "+91 9942034592",
+    "special_notes": "Authentic seafood from coastal India."
+  },
+  {
+    "id": "BLR056",
+    "name": "Ramsey Cafe",
+    "location": "Sellers Villages",
+    "cuisine": "Coastal Indian",
+    "seating_capacity": 165,
+    "hours": "12:00-00:00",
+    "contact": "+91 9757238053",
+    "special_notes": "Iconic for crispy dosas and filter coffee."
+  },
+  {
+    "id": "BLR057",
+    "name": "Kennedy House",
+    "location": "Walsh Wall",
+    "cuisine": "Microbrewery",
+    "seating_capacity": 126,
+    "hours": "07:00-23:00",
+    "contact": "+91 9199671048",
+    "special_notes": "Offers traditional village-style meals, especially during festivals."
+  },
+  {
+    "id": "BLR058",
+    "name": "Parks Lounge",
+    "location": "Best Knolls",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 142,
+    "hours": "24 Hours",
+    "contact": "+91 7899830897",
+    "special_notes": "Offers traditional village-style meals, especially during festivals."
+  },
+  {
+    "id": "BLR059",
+    "name": "Cooley Bistro",
+    "location": "Joshua Drives",
+    "cuisine": "North Indian",
+    "seating_capacity": 172,
+    "hours": "06:00-15:00",
+    "contact": "+91 8322772442",
+    "special_notes": "India\u2019s first Vietnamese restaurant with an elegant outdoor setting."
+  },
+  {
+    "id": "BLR060",
+    "name": "Mason Lounge",
+    "location": "Rodney Mountains",
+    "cuisine": "North Indian",
+    "seating_capacity": 70,
+    "hours": "24 Hours",
+    "contact": "+91 9495574882",
+    "special_notes": "India\u2019s largest brewpub with rooftop seating."
+  },
+  {
+    "id": "BLR061",
+    "name": "Shaw House",
+    "location": "Matthew Curve",
+    "cuisine": "North Indian",
+    "seating_capacity": 180,
+    "hours": "06:00-15:00",
+    "contact": "+91 7968866448",
+    "special_notes": "India\u2019s largest brewpub with rooftop seating."
+  },
+  {
+    "id": "BLR062",
+    "name": "Bass Grill",
+    "location": "Melanie Roads",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 200,
+    "hours": "06:00-15:00",
+    "contact": "+91 8258330221",
+    "special_notes": "Luxury hotel offering diverse dining options in a serene setting."
+  },
+  {
+    "id": "BLR063",
+    "name": "Ryan Kitchen",
+    "location": "Douglas Mission",
+    "cuisine": "South Indian",
+    "seating_capacity": 136,
+    "hours": "12:00-00:00",
+    "contact": "+91 9729140503",
+    "special_notes": "Panoramic city views and a relaxed rooftop ambiance."
+  },
+  {
+    "id": "BLR064",
+    "name": "Kennedy Lounge",
+    "location": "Wendy Ford",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 83,
+    "hours": "07:00-23:00",
+    "contact": "+91 7860619959",
+    "special_notes": "Famous for steaks and burgers."
+  },
+  {
+    "id": "BLR065",
+    "name": "Jones Bistro",
+    "location": "Daniel Plains",
+    "cuisine": "South Indian",
+    "seating_capacity": 69,
+    "hours": "06:00-15:00",
+    "contact": "+91 6929268090",
+    "special_notes": "Famous for steaks and burgers."
+  },
+  {
+    "id": "BLR066",
+    "name": "Schneider Cafe",
+    "location": "Bethany Curve",
+    "cuisine": "South Indian",
+    "seating_capacity": 180,
+    "hours": "24 Hours",
+    "contact": "+91 7774797283",
+    "special_notes": "Panoramic city views and a relaxed rooftop ambiance."
+  },
+  {
+    "id": "BLR067",
+    "name": "Cole Grill",
+    "location": "Matthew Track",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 75,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 7786996140",
+    "special_notes": "Famous for steaks and burgers."
+  },
+  {
+    "id": "BLR068",
+    "name": "Barnes Bistro",
+    "location": "Bradley Ports",
+    "cuisine": "Coastal Indian",
+    "seating_capacity": 158,
+    "hours": "10:30-23:30",
+    "contact": "+91 6562919642",
+    "special_notes": "India\u2019s largest brewpub with rooftop seating."
+  },
+  {
+    "id": "BLR069",
+    "name": "Mitchell Lounge",
+    "location": "Elizabeth Forks",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 83,
+    "hours": "06:00-15:00",
+    "contact": "+91 6478080418",
+    "special_notes": "Offers traditional village-style meals, especially during festivals."
+  },
+  {
+    "id": "BLR070",
+    "name": "Simmons Bistro",
+    "location": "Brian Forges",
+    "cuisine": "South Indian",
+    "seating_capacity": 63,
+    "hours": "24 Hours",
+    "contact": "+91 9153172055",
+    "special_notes": "Iconic for crispy dosas and filter coffee."
+  },
+  {
+    "id": "BLR071",
+    "name": "Lewis Tiffin Room",
+    "location": "Harris Mall",
+    "cuisine": "North Indian",
+    "seating_capacity": 133,
+    "hours": "06:00-15:00",
+    "contact": "+91 6697060039",
+    "special_notes": "Authentic seafood from coastal India."
+  },
+  {
+    "id": "BLR072",
+    "name": "Harper House",
+    "location": "John Springs",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 161,
+    "hours": "06:00-15:00",
+    "contact": "+91 6435737011",
+    "special_notes": "Famous for steaks and burgers."
+  },
+  {
+    "id": "BLR073",
+    "name": "Neal Lounge",
+    "location": "Debra Glens",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 107,
+    "hours": "07:00-23:00",
+    "contact": "+91 7442731971",
+    "special_notes": "Authentic seafood from coastal India."
+  },
+  {
+    "id": "BLR074",
+    "name": "Arnold House",
+    "location": "Parker Fords",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 188,
+    "hours": "12:00-00:00",
+    "contact": "+91 7134545023",
+    "special_notes": "Retro-themed restaurant with a rock-and-roll vibe."
+  },
+  {
+    "id": "BLR075",
+    "name": "Chambers Grill",
+    "location": "James Club",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 107,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 6353645117",
+    "special_notes": "Known for royal Mughlai dishes and luxurious ambiance."
+  },
+  {
+    "id": "BLR076",
+    "name": "Saunders Lounge",
+    "location": "Gloria Meadow",
+    "cuisine": "Continental",
+    "seating_capacity": 71,
+    "hours": "12:00-00:00",
+    "contact": "+91 8963719319",
+    "special_notes": "Famous for steaks and burgers."
+  },
+  {
+    "id": "BLR077",
+    "name": "Kramer Bistro",
+    "location": "James Groves",
+    "cuisine": "Continental",
+    "seating_capacity": 142,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 6117293674",
+    "special_notes": "Authentic seafood from coastal India."
+  },
+  {
+    "id": "BLR078",
+    "name": "Campbell Bistro",
+    "location": "Anne Stravenue",
+    "cuisine": "Microbrewery",
+    "seating_capacity": 190,
+    "hours": "10:30-23:30",
+    "contact": "+91 9505590666",
+    "special_notes": "Vegetarian Burmese cuisine with a modern twist."
+  },
+  {
+    "id": "BLR079",
+    "name": "Mullins Kitchen",
+    "location": "Colleen Underpass",
+    "cuisine": "Continental",
+    "seating_capacity": 101,
+    "hours": "11:00-23:00",
+    "contact": "+91 6865504648",
+    "special_notes": "Retro-themed restaurant with a rock-and-roll vibe."
+  },
+  {
+    "id": "BLR080",
+    "name": "Mills Lounge",
+    "location": "Stephen Stravenue",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 110,
+    "hours": "10:30-23:30",
+    "contact": "+91 8378841810",
+    "special_notes": "India\u2019s largest brewpub with rooftop seating."
+  },
+  {
+    "id": "BLR081",
+    "name": "Johnson Cafe",
+    "location": "Molly Prairie",
+    "cuisine": "Burmese",
+    "seating_capacity": 72,
+    "hours": "07:00-23:00",
+    "contact": "+91 7186144921",
+    "special_notes": "Craft beers and wood-fired pizzas."
+  },
+  {
+    "id": "BLR082",
+    "name": "Shaw Lounge",
+    "location": "Hays Brook",
+    "cuisine": "Burmese",
+    "seating_capacity": 153,
+    "hours": "10:30-23:30",
+    "contact": "+91 8287142943",
+    "special_notes": "Vegetarian Burmese cuisine with a modern twist."
+  },
+  {
+    "id": "BLR083",
+    "name": "Barnes Tiffin Room",
+    "location": "Donald Place",
+    "cuisine": "South Indian",
+    "seating_capacity": 116,
+    "hours": "12:00-00:00",
+    "contact": "+91 7512723901",
+    "special_notes": "Vegetarian Burmese cuisine with a modern twist."
+  },
+  {
+    "id": "BLR084",
+    "name": "Hawkins Tiffin Room",
+    "location": "Allison Mountain",
+    "cuisine": "Continental",
+    "seating_capacity": 59,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 9989709448",
+    "special_notes": "Famous for steaks and burgers."
+  },
+  {
+    "id": "BLR085",
+    "name": "Yang Place",
+    "location": "Charles Mountain",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 146,
+    "hours": "10:30-23:30",
+    "contact": "+91 9312604856",
+    "special_notes": "Craft beers and wood-fired pizzas."
+  },
+  {
+    "id": "BLR086",
+    "name": "Wilson House",
+    "location": "Barnes Underpass",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 195,
+    "hours": "24 Hours",
+    "contact": "+91 7228895749",
+    "special_notes": "Offers traditional village-style meals, especially during festivals."
+  },
+  {
+    "id": "BLR087",
+    "name": "Maxwell Tiffin Room",
+    "location": "Sarah Mission",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 114,
+    "hours": "10:30-23:30",
+    "contact": "+91 8929197414",
+    "special_notes": "Craft beers and wood-fired pizzas."
+  },
+  {
+    "id": "BLR088",
+    "name": "Williams Tiffin Room",
+    "location": "King Grove",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 57,
+    "hours": "12:00-00:00",
+    "contact": "+91 6791839895",
+    "special_notes": "Famous for steaks and burgers."
+  },
+  {
+    "id": "BLR089",
+    "name": "Brown Grill",
+    "location": "Golden Haven",
+    "cuisine": "Multi-Cuisine",
+    "seating_capacity": 102,
+    "hours": "24 Hours",
+    "contact": "+91 7294883947",
+    "special_notes": "Authentic seafood from coastal India."
+  },
+  {
+    "id": "BLR090",
+    "name": "Short House",
+    "location": "George Lights",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 71,
+    "hours": "24 Hours",
+    "contact": "+91 9521604703",
+    "special_notes": "Craft beers and wood-fired pizzas."
+  },
+  {
+    "id": "BLR091",
+    "name": "Wilcox Cafe",
+    "location": "Karen Flats",
+    "cuisine": "North Indian",
+    "seating_capacity": 160,
+    "hours": "06:00-15:00",
+    "contact": "+91 8601377653",
+    "special_notes": "India\u2019s largest brewpub with rooftop seating."
+  },
+  {
+    "id": "BLR092",
+    "name": "Stein House",
+    "location": "Christy Passage",
+    "cuisine": "Burmese",
+    "seating_capacity": 150,
+    "hours": "07:00-23:00",
+    "contact": "+91 6210275531",
+    "special_notes": "India\u2019s first Vietnamese restaurant with an elegant outdoor setting."
+  },
+  {
+    "id": "BLR093",
+    "name": "Roach Cafe",
+    "location": "Duncan Drives",
+    "cuisine": "Microbrewery",
+    "seating_capacity": 154,
+    "hours": "12:00-15:00, 19:00-23:00",
+    "contact": "+91 7422708673",
+    "special_notes": "Luxury hotel offering diverse dining options in a serene setting."
+  },
+  {
+    "id": "BLR094",
+    "name": "Cherry Lounge",
+    "location": "Suzanne Branch",
+    "cuisine": "South Indian",
+    "seating_capacity": 85,
+    "hours": "07:00-23:00",
+    "contact": "+91 9415770817",
+    "special_notes": "Panoramic city views and a relaxed rooftop ambiance."
+  },
+  {
+    "id": "BLR095",
+    "name": "Chang Lounge",
+    "location": "David Mall",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 122,
+    "hours": "24 Hours",
+    "contact": "+91 6400529393",
+    "special_notes": "Retro-themed restaurant with a rock-and-roll vibe."
+  },
+  {
+    "id": "BLR096",
+    "name": "Romero Tiffin Room",
+    "location": "Lewis Groves",
+    "cuisine": "South Indian",
+    "seating_capacity": 127,
+    "hours": "12:00-00:00",
+    "contact": "+91 8991430466",
+    "special_notes": "Iconic for crispy dosas and filter coffee."
+  },
+  {
+    "id": "BLR097",
+    "name": "Johnson Cafe",
+    "location": "Bennett Burgs",
+    "cuisine": "Coastal Indian",
+    "seating_capacity": 199,
+    "hours": "11:00-23:00",
+    "contact": "+91 8500506865",
+    "special_notes": "Retro-themed restaurant with a rock-and-roll vibe."
+  },
+  {
+    "id": "BLR098",
+    "name": "Anderson Grill",
+    "location": "James Estate",
+    "cuisine": "Microbrewery",
+    "seating_capacity": 127,
+    "hours": "07:00-23:00",
+    "contact": "+91 9364168919",
+    "special_notes": "Luxury hotel offering diverse dining options in a serene setting."
+  },
+  {
+    "id": "BLR099",
+    "name": "Smith Bistro",
+    "location": "Lopez Coves",
+    "cuisine": "Vietnamese",
+    "seating_capacity": 148,
+    "hours": "24 Hours",
+    "contact": "+91 6140536929",
+    "special_notes": "Famous for steaks and burgers."
+  },
+  {
+    "id": "BLR100",
+    "name": "Miller Place",
+    "location": "Brewer Heights",
+    "cuisine": "Burmese",
+    "seating_capacity": 109,
+    "hours": "07:00-23:00",
+    "contact": "+91 6212400495",
+    "special_notes": "Authentic seafood from coastal India."
+  }
+]

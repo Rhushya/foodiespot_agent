@@ -161,7 +161,7 @@ The key is the ability to manage time-slotted inventory and customer interaction
 *   **User Accounts & History:** Allow users to create accounts, view past reservations, and save preferences.
 *   **Cancellation/Modification of Reservations:** Add tools for users to manage existing bookings.
 *   **Multi-language Support.**
-*   **Voice Input/Output.**
+*   **Voice Input/Output.** : Using sarvam ai voice model we can develop this and sell it to local restuarents 
 *   **Integration with Calendar Apps.**
 *   **Advanced Analytics Dashboard:** For FoodieSpot management to track key metrics.
 *   **Promotional Offers:** Integrate information about special offers or events at restaurants.
