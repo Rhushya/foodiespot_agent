@@ -19,7 +19,7 @@ A conversational AI solution for FoodieSpot to manage restaurant reservations.
 3.  **Configure API Key:**
     Create a file named `config.py` in the `foodiespot_agent` directory (`foodiespot_agent/config.py`) and add your Groq API key:
     ```python
-    GROQ_API_KEY = "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"
+    GROQ_API_KEY = "gsk----"
     ```
     *(**Note**: For a real-world scenario, it's highly recommended to use environment variables for API keys and add `config.py` to `.gitignore` to avoid committing sensitive information.)*
 
